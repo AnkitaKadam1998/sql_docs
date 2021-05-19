@@ -1,0 +1,5 @@
+create database Employee_Payroll_service;
+
+show databases;
+
+USE employee_payroll_service;
